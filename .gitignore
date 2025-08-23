@@ -1,7 +1,5 @@
-
 # Ignore Python virtual environments
 myenv/
 venv/
 env/
 .venv/
-

@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: cnnclassifier
+Version: 0.0.0
+Summary: A small package for CNN Classifier
+Home-page: https://github.com/prathmbamne2002/chicken_disease-cnnclassifier
+Author: Prathmesh Bamane
+Author-email: prathmbamne2002@gmail.com
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: summary
+
+## chicken_disease-cnnclassifier
